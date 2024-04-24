@@ -1,0 +1,7 @@
+python<3.12,>=3.10
+cplex
+docplex
+numpy
+scipy
+matplotlib
+igraph
